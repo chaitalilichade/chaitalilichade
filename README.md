@@ -47,7 +47,7 @@ public class Kartin1 {
 		}
 
 		public static void main(String[] args) {
-			Kartin k = new Kartin();
+			Kartin1 k = new Kartin1();
 			System.out.println("Welcome to the Kartin Hospital");
 			System.out.println("Please Enter your name");
 			Scanner sc = new Scanner(System.in);
